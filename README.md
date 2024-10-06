@@ -1,2 +1,3 @@
 # rock-paper-scissors
-js. using log only
+
+js. using console only
